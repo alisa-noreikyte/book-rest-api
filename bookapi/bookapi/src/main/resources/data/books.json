@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+      "author": "Eric Matthes",
+      "year": 2023,
+      "rating": 4,
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": 2,
+      "title": "Investing All-in-One For Dummies",
+      "author": "Eric Tyson",
+      "year": 2022,
+      "rating": 4,
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "rating": 5,
+      "status": "FINISHED"
+    },
+    {
+      "id": 4,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year": 1932,
+      "rating": 3,
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": 5,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965,
+      "rating": 5,
+      "status": "FINISHED"
+    },
+    {
+      "id": 6,
+      "title": "Cryptocurrency All-in-One For Dummies",
+      "author": "Kiana Danial",
+      "year": 2022,
+      "rating": 3,
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": 7,
+      "title": "Hackers: Heroes of the Computer Revolution",
+      "author": "Steven Levy",
+      "year": 2015,
+      "rating": 2,
+      "status": "NOT_STARTED"
+    },
+    {
+      "id": 8,
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "year": 1945,
+      "rating": 5,
+      "status": "FINISHED"
+    },
+    {
+      "id": 9,
+      "title": "Smarter Than You Think: How Technology Is Changing Our Minds for the Better",
+      "author": "Clive Thompson",
+      "year": 2013,
+      "rating": 1,
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": 10,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "year": 2012,
+      "rating": 4,
+      "status": "NOT_STARTED"
+    }
+  ]
+}
